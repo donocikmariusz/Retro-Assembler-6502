@@ -7,7 +7,7 @@ reset:
     sta $6000
 
 loop:
-    ror 
+    ror
     sta $6000
 
     jmp loop
